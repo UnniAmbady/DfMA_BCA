@@ -3,9 +3,7 @@ from openai import OpenAI
 
 # Show title and description.
 st.title("💬 Chatbot -->🍎")
-st.write(
-    "This is a simple chatbot "
-    )
+st.write("Chatbot on DfMA ")
 
 context = """
         [Building and Construction Authority (BCA), Singapore Building Regulations, and DfMA]
